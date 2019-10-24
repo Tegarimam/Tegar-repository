@@ -1,4 +1,4 @@
 tegar resolusi 
 - konsisten untuk dalam membelajar pemrograman web 
-- membuat sourc code yang menarik 
-- membuat sourc code yang singkat 
+- membuat sourc code yang menarik dan lebih singkat
+- lebih banyak berdiskusi dengan komunitas  
