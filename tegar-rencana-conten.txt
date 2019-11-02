@@ -7,5 +7,5 @@ RENCANA CONTEN TEGAR
   * Perkenalan kode dasar vue,js
 - Tutorial html dan css
 - Php
-  ^ codeingniter
 - Java Script
+- python
