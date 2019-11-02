@@ -3,6 +3,7 @@ RENCANA CONTEN TEGAR
 - Tutorial Vue.js
   * framework vue.js
     ^ view
+    ^ react
   * Perkenalan kode dasar vue,js
 - Tutorial html dan css
 - Database ingjiner
